@@ -1,4 +1,4 @@
-# morgan-logger-starter
+# express-morgan-logger-starter
 express-morgan-logger-starter
 
 ```
